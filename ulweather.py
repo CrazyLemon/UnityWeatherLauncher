@@ -17,7 +17,7 @@ textSl = "Vremenska napoved za:"
 textEn = "Weather forecast for:"
 locationSl = "Kraj"
 locationEn = "Location"
-weatherKey = "b1b15e88fa797225412429c1c50c122a1"
+weatherKey = "insert_your_api_key_here"
 
 # Localization part
 locale.setlocale(locale.LC_ALL, '')
